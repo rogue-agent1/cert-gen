@@ -1,11 +1,1 @@
-# cert-gen
-
-Self-signed X.509 certificate generator (DER format)
-
-## Usage
-
-```bash
-python3 cert_gen.py --help
-```
-
-Zero dependencies. Python 3.8+.
+# cert-gen\n\nSelf-signed X.509 certificate generator with RSA key pairs\n\n## Usage\n\n```bash\npython3 cert_gen.py --help\n```\n\n## Features\n\n- Zero dependencies (Python 3.8+ stdlib only)\n- Single file implementation\n
